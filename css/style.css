@@ -121,7 +121,7 @@ h4 {
 	position: relative;
 }
 
-.bloques>div>div{
+.bloques>section>div>div{
 	position: absolute;
 	top: 50%
 }
