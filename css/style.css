@@ -2,7 +2,6 @@
 	box-sizing: border-box;
 }
 
-
 /* header */
 
 #header img{
@@ -31,6 +30,9 @@
 
 .navbar{
 	margin-left: auto;
+	position: absolute;
+	min-height: 0px;
+	margin-bottom: 0
 }
 /* footer */
 
@@ -124,4 +126,13 @@ h4 {
 	text-transform: uppercase;
 	font-size: 10px;
 	letter-spacing: 1px
+}
+
+/**/
+
+.bloques div{
+	text-align: center;
+	height: 300px;
+	background-size: cover;
+	background-position:center;
 }
