@@ -10,7 +10,9 @@
     box-shadow: rgba(0, 1, 9, 0.1) 0px 0px 10px 5px;
     border-radius: 0px;
     padding-left: 50px;
-    padding-right: 50px
+    padding-right: 50px;
+    background-color: white;
+    border: none
 }
 
 .navbar-right{
@@ -115,4 +117,11 @@ h4 {
 .bloques div{
 	text-align: center;
 	height: 300px;
+	border:1px solid #eee;
+	position: relative;
+}
+
+.bloques>div>div{
+	position: absolute;
+	top: 50%
 }
