@@ -129,16 +129,11 @@ h4 {
 .bloques .proyectobloque{
 	text-align: center;
 	height: 300px;
-	border:1px solid #eee;
 	position: relative;
 }
 
 .proyecto{
 	position: absolute;
-	top:50%;
-	margin-top: -50px;
-	left: 50%;
-	margin-left: -150px
 }
 
 .proyecto h2{
