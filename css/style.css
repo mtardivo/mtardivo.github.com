@@ -127,6 +127,13 @@ h4 {
 
 .proyecto{
 	position: absolute;
-	top: 35%;
-	left: 25%
+	top:50%;
+	margin-top: -50px;
+	left: 50%;
+	margin-left: -150px
+}
+
+.proyecto h2{
+	font-weight: 100;
+	text-transform: uppercase;
 }
