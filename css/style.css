@@ -2,11 +2,11 @@
 	box-sizing: border-box;
 }
 
-a{
+a h2{
 	color: red
 }
 
-a:hover{
+a h2:hover{
 	color: black
 }
 
@@ -130,14 +130,17 @@ h4 {
 	text-align: center;
 	height: 300px;
 	position: relative;
+	padding: 10px
 }
 
 .proyecto{
 	position: absolute;
+	width: 100%
 }
 
 .proyecto h2{
 	font-weight: 100;
 	text-transform: uppercase;
-	font-size: 25px
+	font-size: 20px;
+	letter-spacing: 2px
 }
