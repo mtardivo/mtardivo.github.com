@@ -5,8 +5,8 @@
 /* header */
 
 .navbar-default {
-    background-color: white;
-    border-color: #e7e7e7;
+    background-color: white !important;
+    border-color: #e7e7e7 !important;
     box-shadow: rgba(0, 1, 9, 0.1) 0px 0px 10px 5px;
     border-radius: 0px;
     padding-left: 50px;
@@ -17,6 +17,10 @@
 
 .navbar-right{
 	float: right;
+}
+
+.navbar{
+	border-radius: 0px
 }
 /* footer */
 
@@ -123,5 +127,6 @@ h4 {
 
 .proyecto{
 	position: absolute;
-	top: 50%
+	top: 35%;
+	left: 25%
 }
