@@ -114,14 +114,14 @@ h4 {
 
 /**/
 
-.bloques>section>div{
+.proyectobloque{
 	text-align: center;
 	height: 300px;
 	border:1px solid #eee;
 	position: relative;
 }
 
-.bloques>section>div>div{
+.proyecto{
 	position: absolute;
 	top: 50%
 }
