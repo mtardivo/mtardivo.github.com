@@ -7,7 +7,7 @@ a h2{
 }
 
 a h2:hover{
-	color: inherit;
+	color: black;
 }
 
 /* header */
@@ -128,7 +128,8 @@ h4 {
 	font-weight: 100;
 	text-transform: uppercase;
 	font-size: 20px;
-	letter-spacing: 2px
+	letter-spacing: 2px;
+	margin-bottom: 0
 }
 
 .navbar-brand h1{
