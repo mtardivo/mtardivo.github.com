@@ -117,7 +117,7 @@ h4 {
 	padding: 10px
 }
 
-.bloques .proyectobloque div{
+.bloques .proyectobloque .col-md-12{
 	border:1px solid #eee; 
 	height: 100%; 
 	padding: 0;
