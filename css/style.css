@@ -117,13 +117,13 @@ h4 {
 	padding: 10px
 }
 
-.bloques .proyectobloque .col-md-12{
+.bloques .proyectobloque .proyectobeh{
 	border:1px solid #eee; 
 	height: 100%; 
 	padding: 0;
 }
 
-.bloques .proyectobloque div:hover{
+.bloques .proyectobloque .proyectobeh:hover{
 	opacity: 0.5
 }
 
